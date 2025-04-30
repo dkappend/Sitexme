@@ -1,0 +1,10 @@
+Sitexme/
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── assets/
+│   └── (imagens, ícones, etc.)
+├── README.md
+└── .gitignore
